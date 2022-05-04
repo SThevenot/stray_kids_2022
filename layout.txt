@@ -1,0 +1,39 @@
+
+//hotel page layout
+ - caroseual pictures of hotel
+ - Overall rating
+ - Cost all together
+ - Price Per person
+ - Paid?
+ - cool features
+ - Check-in/check-out
+
+//plans page layout
+ - Dates
+ - Times of everything (train, check-in, concert, train)
+ - Restaurant ideas
+ - stuff in chinatown?
+
+//concert page layout
+ - seating chart, and our seat details
+ - cost
+ - cost per person
+ - Paid?
+ - Doors open
+ - merch
+ - bag policy
+
+//travel page layout
+ - Train departure
+ - cost
+ - cost per person
+ - paid?
+ - time we should arrive at station on Saturday
+ - train departure
+ - length
+
+//cost page layout
+ - Total of each expense
+ - estimate for food and/or merch
+ - how much has already been paid
+ - 
